@@ -1,2 +1,2 @@
-langchain_community==0.0.29
+langchain_community==0.0.37
 requests==2.31.0
