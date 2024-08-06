@@ -26,12 +26,14 @@ The script `main-api.py` uses the REST api approach by calling the `api/generate
 
 ![Ollama4](./docs/sample-ollama-4.png)
 
-Before running the Python scripts, make sure to install [Python](https://www.python.org/downloads/) on your PC and also install the required packages by calling `pip install -r requirements.txt`.
+Before running the Python scripts, make sure to install [Python](https://www.python.org/downloads/) on your PC and also install the required packages by calling `pip install -r requirements.txt`. You can also create a Python environment if you want.
 
 ## Blog Post / YouTube Video
 
 If you are more interested into details, please see the following [medium.com](https://www.medium.com) post:
+
 - [Using Ollama to run local LLMs on your computer](https://medium.com/medialesson/using-ollama-to-run-local-llms-on-your-computer-2e2ee6572a13)
 
 You can also watch the following video on my [YouTube channel](https://www.youtube.com/@tsjdevapps):
+
 - [Lokale LLMs mit Ollama auf dem eigenen PC](https://www.youtube.com/watch?v=bux3jTkmRoI)
