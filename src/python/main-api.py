@@ -12,7 +12,7 @@ headers = {
 # define function to generate response from ollama api
 def generate_response(prompt):
     data = {
-        "model": "phi",
+        "model": "phi3",
         "stream": False,
         "prompt": prompt,
     }
